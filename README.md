@@ -8,6 +8,19 @@ My name is Frode and I'm a software developer. I'm from Norway and currently liv
 * :goggles: VR
 * :robot: Maker
 
+## :hammer_and_pick: Tools and Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-Spring_boot-informational?style=flat&logo=spring-boot&logoColor=white&color=238636)
+<!--![](https://img.shields.io/badge/Code-Shell_script-informational?style=flat&logo=bash&logoColor=white&color=238636)-->
+![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=238636)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -20,6 +33,9 @@ My name is Frode and I'm a software developer. I'm from Norway and currently liv
 </a>
 
 <!--
+
+#238636
+
 **frodekp/frodekp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
