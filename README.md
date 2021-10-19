@@ -16,6 +16,7 @@ My name is Frode and I'm a software developer. I'm from Norway and currently liv
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/Code-Spring_boot-informational?style=flat&logo=spring-boot&logoColor=white&color=238636)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=238636)
 <!--![](https://img.shields.io/badge/Code-Shell_script-informational?style=flat&logo=bash&logoColor=white&color=238636)-->
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=238636)
