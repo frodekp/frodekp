@@ -1,7 +1,7 @@
 # Hello there
 My name is Frode and I'm a software developer. I'm from Norway and currently live in Ålesund. I graduated with a bachelor of science degree in computer engineering in 2020 at NTNU Ålesund.
 
-## Hobbies
+## :yo_yo: Hobbies
 * :mountain: Hiking
 * :climbing: Bouldering/Climbing
 * :video_game: Gaming
@@ -29,7 +29,7 @@ My name is Frode and I'm a software developer. I'm from Norway and currently liv
 </a>-->
 
 <a href="https://github.com/MartinHeinz/frodekp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodekp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodekp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=238636&bg_color=1d1f21" alt="Frode's GitHub Stats" />
 </a>
 
 <!--
