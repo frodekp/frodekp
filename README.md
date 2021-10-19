@@ -1,5 +1,5 @@
 # Hello there
-My name is Frode and I'm a software developer. I'm from Norway and currently live in Ålesund. I graduated with a bachelor of science degree in computer engineering.
+My name is Frode and I'm a software developer. I'm from Norway and currently live in Ålesund. I graduated with a bachelor of science degree in computer engineering in 2020 at NTNU Ålesund.
 
 ## Hobbies
 * :mountain: Hiking
