@@ -10,6 +10,7 @@ My name is Frode and I'm a software developer. I'm from Norway and currently liv
 * :key: Computer security
 
 ## :hammer_and_pick: Tools and Technologies
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=238636)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=238636)
